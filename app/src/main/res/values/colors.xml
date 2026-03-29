@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="latar_gelap">#0F1117</color>
+    <color name="kartu_latar">#1A1D27</color>
+    <color name="kartu_hasil">#0D1F17</color>
+    <color name="kartu_info">#16181F</color>
+    <color name="teks_utama">#E8E9F0</color>
+    <color name="teks_sekunder">#7A7D8C</color>
+    <color name="teks_hint">#3A3D4C</color>
+    <color name="teks_gelap">#0F1117</color>
+    <color name="aksen_hijau">#2ECC71</color>
+    <color name="aksen_biru">#5B8DEE</color>
+    <color name="aksen_ungu">#A855F7</color>
+    <color name="batas">#252836</color>
+    <color name="colorPrimary">#A855F7</color>
+    <color name="colorPrimaryDark">#7C3AED</color>
+    <color name="colorAccent">#2ECC71</color>
+</resources>
